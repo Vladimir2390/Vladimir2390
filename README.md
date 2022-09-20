@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vladimir2390
+- 👀 I’m interested in IT and how to make life more comfortable and fast.
+- 🌱 I’m currently learning C#, data base and git.  
+- 📫 Reach me by e-mail air90@bk.ru
